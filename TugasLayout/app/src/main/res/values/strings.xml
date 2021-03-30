@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TugasLayout</string>
+    <string name="to">To</string>
+    <string name="subject">Subject</string>
+    <string name="message">message</string>
+    <string name="send">send</string>
+</resources>
